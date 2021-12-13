@@ -1,0 +1,171 @@
+body{
+	font-size: 15px;
+	margin: 80px 70px;
+	text-align: center;
+	
+
+}
+.column1 {
+	  flex: 33.33%;
+	  height: 500px;
+	  padding: 10px;
+	  margin: 0;
+	  background-color: #F3950D;
+	  font-family: 'Lexend Deca', sans-serif; 
+	 color: #F7F7F7;
+	 font-weight: 400;
+	 text-align: left;
+	 padding-top: 100px;
+	 padding-left: 20px;
+	 line-height: 2;
+
+
+	  
+	}
+.button1{
+	background: #F7F7F7;
+  background-image: -webkit-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -moz-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -ms-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -o-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: linear-gradient(to bottom, #F7F7F7, #F7F7F7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family:  'Lexend Deca', sans-serif;
+  color: #F3950D;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+ line-height: 1;
+ border: none;
+ margin-top: 20px;
+ text-align: left;
+ position: absolute;
+ top: 105%;
+ 
+
+}
+.button1:hover{
+	background: #212121;
+  background-image: -webkit-linear-gradient(top, #212121, #212121);
+  background-image: -moz-linear-gradient(top, #212121, #212121);
+  background-image: -ms-linear-gradient(top, #212121, #212121);
+  background-image: -o-linear-gradient(top, #212121, #212121);
+  background-image: linear-gradient(to bottom, #212121, #212121);
+  text-decoration: none;
+
+}
+
+.column2{
+	 flex: 33.33%;
+	  height: 500px;
+	  padding: 10px;
+
+
+	  background-color: #3C8DAD ;
+	  font-family: 'Lexend Deca', sans-serif; 
+	 color: #F7F7F7;
+	 font-weight: 400;
+	 text-align: left;
+	 padding-top: 100px;
+	 padding-left: 20px;
+	  line-height: 2;
+	  
+	}
+.button2{
+	background: #F7F7F7;
+  background-image: -webkit-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -moz-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -ms-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -o-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: linear-gradient(to bottom, #F7F7F7, #F7F7F7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family:  'Lexend Deca', sans-serif;
+  color: #3C8DAD;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+ line-height: 1;
+ border: none;
+ margin-top: 50px;
+ text-align: left;
+ position: absolute;
+ top: 100%;
+
+}
+.button2:hover{
+	background: #212121;
+  background-image: -webkit-linear-gradient(top, #212121, #212121);
+  background-image: -moz-linear-gradient(top, #212121, #212121);
+  background-image: -ms-linear-gradient(top, #212121, #212121);
+  background-image: -o-linear-gradient(top, #212121, #212121);
+  background-image: linear-gradient(to bottom, #212121, #212121);
+  text-decoration: none;
+
+}
+	  
+.column3{
+	 flex: 33.33%;
+	  height: 500px;
+	  padding: 10px;
+	  margin: 0;
+	  background-color: #064635;
+	  font-family: 'Lexend Deca', sans-serif; 
+	 color: #F7F7F7;
+	 font-weight: 400;
+	 text-align: left;
+	 padding-top: 100px;
+	 padding-left: 20px;
+	  line-height: 2;
+
+	  
+}
+.button3{
+	background: #F7F7F7;
+  background-image: -webkit-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -moz-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -ms-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: -o-linear-gradient(top, #F7F7F7, #F7F7F7);
+  background-image: linear-gradient(to bottom, #F7F7F7, #F7F7F7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family:  'Lexend Deca', sans-serif;
+  color: #064635;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+ line-height: 1;
+ border: none;
+ margin-top: 20px;
+ text-align: left;
+position: absolute;
+top:  105%;
+
+}
+.button3:hover{
+	background: #212121;
+  background-image: -webkit-linear-gradient(top, #212121, #212121);
+  background-image: -moz-linear-gradient(top, #212121, #212121);
+  background-image: -ms-linear-gradient(top, #212121, #212121);
+  background-image: -o-linear-gradient(top, #212121, #212121);
+  background-image: linear-gradient(to bottom, #212121, #212121);
+  text-decoration: none;
+
+}
+
+.container {
+	   display: flex;
+	}
+
+
+	 
+	
+
+h2{
+	font-family: 'Big Shoulders Display', cursive;
+	 color: #F7F7F7;
+	 font-weight: 700;
+	 text-align: left;
+	 font-size: 25px;
+}
